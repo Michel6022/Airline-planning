@@ -1,0 +1,13 @@
+Aircraft Type,Type 1: Regional turboprop,Type 2: Electric regional aircraft ,Type 3: Electric regional aircraft 
+Speed [km/h],550,480,350
+Seats,45,48,20
+Average TAT [min],25,25,20
+Additional charging time,N/A,45,20
+Maximum Range [km],"1,500","1,000",400
+Runway Required [m],"1,400",950,750
+Lease Cost [€],"2,143","3,142","1,714"
+Fixed Operating Cost (Per Fligth Leg)  [€],300,120,90
+Cost per Hour,750,750,750
+Fuel Cost Parameter,1,N/A,N/A
+Batteries energy (kWh),N/A,8216,2130
+Fleet,5,3,3
